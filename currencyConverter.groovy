@@ -1,4 +1,4 @@
-print "Tell me today's exchange rate. If I give you £1, how many Euro will you give me? ";
+print "Tell me today's exchange rate! If I give you £1, how many Euro will you give me? ";
 double euroOverPoundRatio = Double.parseDouble(System.console().readLine());
 print "Tell me today's exchange rate. If I give you 1€, how many Sterling pounds will you give me? ";
 double poundOverEuroRatio = Double.parseDouble(System.console().readLine());
